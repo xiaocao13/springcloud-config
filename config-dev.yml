@@ -1,6 +1,6 @@
-config
- info
-  age 15
-  gender male
+config:
+  info:
+    age: 15
+    gender: male
  
   
