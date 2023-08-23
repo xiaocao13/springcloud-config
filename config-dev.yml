@@ -1,6 +1,4 @@
 config:
-  info:
-    age: 16
-    gender: male
+  info: log,version:1
  
   
